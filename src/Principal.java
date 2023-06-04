@@ -1,3 +1,13 @@
+/*
+* sempre que terminar alterações e mudar de pc
+*
+*
+* */
+
+
+
+
+
 import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.alura.screenmatch.calculos.FiltroRecomendacao;
 import br.com.alura.screenmatch.modelos.Episodio;
